@@ -4,3 +4,7 @@
 * (c)test.py apply bilateral filter with different parameters to image
 * 1.py perform dilation operation on a map
 * 2_test_3.py perform uniform lighting compensation on image 
+* text.png original image for lighting compensation
+
+![GitHub Logo]( ./text.png)
+
